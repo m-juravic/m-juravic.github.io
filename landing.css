@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(48, 47, 64);
+}
+
+.navbar {
+    text-align: left;
+    font-size: large;
+}
+
+a.navlink:link {
+    color: rgba(245, 245, 245, 0.777);
+}
+
+a.navlink:visited {
+    color: rgba(245, 245, 245, 0.777);
+}
+
+a.navlink:hover {
+    color: rgba(217, 54, 215, 0.777);
+}
+
+h1 {
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+img{
+    text-align: center;
+    border-radius: 25%;
+    border: 2px solid rgb(233, 183, 231);
+}
+
+section {
+    text-align: center;
+    border-radius: 25%;
+}
+
+h2{
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+}
+
+h3{
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+}
+
+
+
+

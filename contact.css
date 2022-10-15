@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(48, 47, 64);
+}
+
+.navbar {
+    text-align: left;
+    font-size: large;
+}
+
+a.navlink:link {
+    color: rgba(245, 245, 245, 0.777);
+}
+
+a.navlink:visited {
+    color: rgba(245, 245, 245, 0.777);
+}
+
+a.navlink:hover {
+    color: rgba(217, 54, 215, 0.777);
+}
+
+h1 {
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+}
+
+section {
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+    font-size: larger;
+}
+
+body p {
+    color: rgba(245, 245, 245, 0.777);
+    text-align: center;
+}
+
+a.linkedIn:link {
+    color: rgba(112, 224, 244, 0.777);
+}
+
+a.linkedIn:visited {
+    color: rgba(112, 224, 244, 0.777);
+}
+
+a.linkedIn:hover {
+    color: rgba(217, 54, 215, 0.777);
+}
+
